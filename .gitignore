@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.o
+*.so
+libscicomm_pmpi.so
+scicomm_traces/
+scicomm_summary/
+*_summary/
+*.jsonl
